@@ -8,7 +8,7 @@ namespace Estructura_de_datos
         {
             int[] array = new int[5];
             array[0] = 5;
-            array[1] = 4;
+            array[1] = 8;
             array[2] = 6;
             array[3] = 2;
             array[4] = 7;
